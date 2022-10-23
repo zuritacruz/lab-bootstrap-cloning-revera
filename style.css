@@ -6,3 +6,43 @@
 .carousel-item {
     height: 550px;
 }
+
+.projects-articles h4 {
+    font-size: 0.9em;
+}
+
+.projects-articles h3 {
+    font-size: 1.6em;
+}
+
+.projects-articles h5 {
+    font-size: 1em;
+}
+
+.projects-articles h6 {
+    font-size: 0.8em;
+}
+
+.projects-articles p {
+    font-size: 0.9em;
+}
+
+.info-bottom {
+    background-color: #3b3b3b;
+}
+
+.info-bottom h5 {
+    font-size: 1em;
+}
+
+.info-bottom a, .bottom-text {
+    font-size: 0.9em;
+}
+
+.dotted-link {
+    border-bottom: 1px dotted grey;
+}
+
+.footer-text {
+    font-size: 0.8em;
+}
